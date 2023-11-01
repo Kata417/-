@@ -53,10 +53,34 @@
     <Compile Include="E:\302_Андросова\Алгоритмизация\Формы\Form11.Designer.cs">
       <DependentUpon>Form11.cs</DependentUpon>
     </Compile>
+    <Compile Include="E:\302_Андросова\Алгоритмизация\Формы\Form12.cs">
+      <SubType>Form</SubType>
+      <Link>Form12.cs</Link>
+    </Compile>
+    <Compile Include="E:\302_Андросова\Алгоритмизация\Формы\Form12.Designer.cs">
+      <DependentUpon>Form12.cs</DependentUpon>
+      <Link>Form12.Designer.cs</Link>
+    </Compile>
+    <Compile Include="E:\302_Андросова\Алгоритмизация\Формы\Form13.cs">
+      <SubType>Form</SubType>
+      <Link>Form13.cs</Link>
+    </Compile>
+    <Compile Include="E:\302_Андросова\Алгоритмизация\Формы\Form13.Designer.cs">
+      <DependentUpon>Form13.cs</DependentUpon>
+      <Link>Form13.Designer.cs</Link>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="E:\302_Андросова\Алгоритмизация\Формы\Form11.resx">
       <DependentUpon>Form11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="E:\302_Андросова\Алгоритмизация\Формы\Form12.resx">
+      <DependentUpon>Form12.cs</DependentUpon>
+      <Link>Form12.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="E:\302_Андросова\Алгоритмизация\Формы\Form13.resx">
+      <DependentUpon>Form13.cs</DependentUpon>
+      <Link>Form13.resx</Link>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
